@@ -1,0 +1,1 @@
+# AgriPal.ai

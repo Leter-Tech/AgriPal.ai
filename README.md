@@ -367,5 +367,4 @@ Farmers can browse:
   - 📝 Farmers can **apply directly** or **mark interest**
   - ⏰ Track **deadlines, disbursal status**, and reminders
 
-> Under Development 🚧
-> Coming Soon!
+> 🚧 Under Development | Coming Soon! 🚧
